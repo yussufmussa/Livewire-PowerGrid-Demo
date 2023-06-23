@@ -1,4 +1,4 @@
-[](https://i.ibb.co/hyC0v7L/Screenshot-from-2023-06-23-21-02-33.png)
+![](https://i.ibb.co/hyC0v7L/Screenshot-from-2023-06-23-21-02-33.png)
 
 # PowerGridComponent
 
